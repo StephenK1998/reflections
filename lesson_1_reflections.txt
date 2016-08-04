@@ -1,0 +1,6 @@
+From my perspective,it's really a damn matter to view a diff.As for the reasons,
+the output is not user-friendly at all,as a result,it's hard to figure out the difference.
+
+In my opinion,the version control makes the improvment made to the program clearer.
+
+
